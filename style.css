@@ -42,4 +42,13 @@ body{
 	.column.side, column.middle{
 		width: 100%;
 	}
+	table {
+		width:  100%;
+		border-collapse: : collapse;
+	}
+	th,td {
+		border: 1px solid black;
+		padding: 8px;
+		text-align: center;
+	}
 }
